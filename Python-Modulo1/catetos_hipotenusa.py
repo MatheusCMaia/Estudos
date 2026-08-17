@@ -1,0 +1,5 @@
+cateto_oposto = float(input('Digite o tamanho do cateto oposto: '))
+cateto_adjacente = float(input('Digite o tamanho do cateto adjacente: '))
+soma_dos_catetos = (cateto_oposto ** 2) + (cateto_adjacente ** 2)
+hipotenusa = soma_dos_catetos ** (1/2)
+print(f'A hipotenusa tem a medida de: {hipotenusa:.2f}')

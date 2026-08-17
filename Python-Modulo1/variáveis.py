@@ -1,7 +1,3 @@
-## Variáveis sempre em minusculo, nunca usar caracteres especiais e se possível nunca usar números
-
-
-
 # Inteiros = int
 
 idade = 24

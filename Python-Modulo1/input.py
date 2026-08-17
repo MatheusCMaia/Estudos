@@ -10,4 +10,10 @@ nome = "Matheus"
 
 nome = input("Digite seu nome: ")
 
-print(nome)
+# receber um número inteiro int(input())
+# str não consegue fazer calculos matematicos
+
+idade = int(input("Digite sua idade: "))
+
+
+print(nome, idade)

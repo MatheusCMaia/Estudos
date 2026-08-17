@@ -1,6 +1,6 @@
 '''
 
-break, continue e pass
+break e pass
 
 '''
 

@@ -21,6 +21,8 @@ caixa_de_brinquedos = ['maxsteel', 'pelucia', 'hotweels', 'soldadinho']
 brinquedos_para_doacao = []
 brinquedos_para_uso = []
 
+
+#Adicionar item numa outra lista
 for brinquedo in caixa_de_brinquedos:
     print(brinquedo)
     if brinquedo in ['pelucia', 'hotweels']:
