@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.R.R. Tolkien",
+    "preco": 59.90,
+    "em_estoque": true
+  },
+  {
+    "id": 2,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "preco": 35.50,
+    "em_estoque": false
+  }
+]
