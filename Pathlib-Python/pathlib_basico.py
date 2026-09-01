@@ -63,12 +63,9 @@ mais_um_arquivo.touch()
 #criando_diretorio.rmdir()
 
 #deletando um diretorio não vazio
-#rmtree(criando_diretorio)
+rmtree(criando_diretorio)
 
-try:
-    criando_diretorio.rmdir()
-except:
-    rmtree(criando_diretorio)
+
 
 
 
